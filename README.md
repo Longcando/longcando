@@ -64,6 +64,16 @@ I enjoy building econometric and machine learning models for complex research qu
 
 This project develops a nonlinear factor modelling framework for reduced-rank matrix-valued time series. The work is motivated by macroeconomic datasets with rich cross-country and cross-variable structure, where preserving the matrix form can improve interpretation and forecasting performance. I am particularly interested in applications to multinational forecasting and scenario analysis.
 
+#### DeepTMAR: LSTM for Time-varying Matrix Autoregression Models
+
+**Author:** Longcan Li  
+**Status:** Working paper  
+**Fields:** Deep learning, matrix-valued time series, time-varying parameter models, forecasting  
+
+In this paper, I develop a long short-term memory (LSTM) deep learning method for estimating time-varying parameter matrix autoregression models. While econometric models explain relationships through theory and assumptions, LSTMs learn these relationships from data, offering greater adaptability and often stronger predictive accuracy in complex time-series environments. I use the algorithm of Ansley and Kohn (1986) to map the network output to causal coefficient matrices.
+
+In an application to European energy price data, the integrated DeepTVPMAR model performs competitively with, or better than, benchmarks including fixed-parameter VAR, kernel TV-VAR (QBLL), and existing deep learning baselines such as DeepAR and DeepState. Performance is evaluated using both point forecast accuracy, including MSE and MAPE, and interval forecast metrics.
+
 ### Non-econometric Research
 
 #### Exposure to Manosphere Rhetoric Shapes Support for Gender Equality Policies

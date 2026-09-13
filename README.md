@@ -25,6 +25,16 @@ I enjoy building econometric and machine learning models for complex research qu
 - Matrix-valued Time Series
 - Deep Learning
 
+## Education
+
+- **Doctor of Philosophy in Economics**, 2024-present, The University of Melbourne  
+  Supervised by Dr. [Tomasz Woźniak](https://github.com/donotdespair) and Prof. [Dan Zhu](https://sites.google.com/monash.edu/danzhu/home)
+
+- **Honours Degree in Economics**, 2023, The University of Adelaide  
+  Supervised by Associate Professor [Qazi Haque](https://sites.google.com/site/qazigmziaulhaque/)
+
+- **Bachelor of Economics**, 2019-2022, The University of Adelaide
+
 ---
 
 ## Some Languages and Tools

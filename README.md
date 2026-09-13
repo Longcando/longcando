@@ -56,13 +56,13 @@ I enjoy building econometric and machine learning models for complex research qu
 
 ### Current Projects
 
-#### Nonlinear factor models for matrix-valued macroeconomic time series
+#### A Nonlinear Factor Model for Reduced-Rank Matrix Time Series
 
+**Authors:** Longcan Li, Tomasz Woźniak, and Dan Zhu  
 **Status:** PhD research in progress  
 **Fields:** Bayesian econometrics, macroeconometrics, matrix-valued time series, forecasting  
-**Summary:** I am developing nonlinear factor models for matrix-valued macroeconomic time series, with applications to multinational forecasting and scenario analysis.
 
-
+This project develops a nonlinear factor modelling framework for reduced-rank matrix-valued time series. The work is motivated by macroeconomic datasets with rich cross-country and cross-variable structure, where preserving the matrix form can improve interpretation and forecasting performance. I am particularly interested in applications to multinational forecasting and scenario analysis.
 
 ### Non-econometric Research
 

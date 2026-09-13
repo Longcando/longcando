@@ -14,8 +14,7 @@ Bayesian econometrics, macroeconometrics, matrix-valued time series, and deep le
 
 Hi there! I'm Longcan Li, a PhD candidate in Economics at the University of Melbourne.
 
-My research sits at the intersection of Bayesian econometrics, macroeconometrics, machine learning, and applied data analysis. I am currently developing nonlinear factor models for matrix-valued macroeconomic time series, with applications to multinational forecasting and scenario analysis.
-
+My research sits at the intersection of Bayesian econometrics, macroeconometrics, machine learning, and applied data analysis. 
 I enjoy building econometric and machine learning models for complex research questions, especially where careful modelling can turn messy data into useful evidence. I am open to collaborations on data analysis, forecasting, and modelling for academic research or industry projects.
 
 ## Research Interests

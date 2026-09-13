@@ -87,7 +87,27 @@ This paper studies whether central banks respond directly to house price movemen
 
 ---
 
-##  Connect With Me 
+## Software
+
+<div align="center">
+
+<a href="https://bsvars.org/StealLikeBayes/">
+  <img src="https://bsvars.org/StealLikeBayes/logo.png" alt="StealLikeBayes logo" width="180" />
+</a>
+
+</div>
+
+### StealLikeBayes
+
+**Role:** Author  
+**Description:** A compendium of Bayesian statistical routines written in C++  
+**Website:** [https://bsvars.org/StealLikeBayes/](https://bsvars.org/StealLikeBayes/)
+
+I am an author of `StealLikeBayes`, an open-source package that provides reusable C++ routines for Bayesian statistics and supports developers building Bayesian methods in R packages.
+
+---
+
+## Connect With Me 
 
 <div align="center">
 

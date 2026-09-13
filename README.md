@@ -140,6 +140,15 @@ I am an author of `StealLikeBayes`, an open-source package that provides reusabl
 
 ---
 
+## Awards and Prizes
+
+- **University Medal**
+- **The John Lorenzo Young Prize**
+- **Dean's Award for Exceptional Achievement**
+- **The Ray Lewis Memorial Prize**
+
+---
+
 ## Connect With Me 
 
 <div align="center">

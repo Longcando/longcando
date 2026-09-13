@@ -49,43 +49,44 @@ My research focuses on Bayesian econometrics, macroeconometrics, and deep learni
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Longcando&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
-
-</div>
-
 ---
 
 ## Research
 
-### Current Research
+### Current Projects
 
-I am working on nonlinear factor models for matrix-valued macroeconomic time series, with applications to multinational forecasting and scenario analysis.
+#### Nonlinear factor models for matrix-valued macroeconomic time series
+
+**Status:** PhD research in progress  
+**Fields:** Bayesian econometrics, macroeconometrics, matrix-valued time series, forecasting  
+**Summary:** I am developing nonlinear factor models for matrix-valued macroeconomic time series, with applications to multinational forecasting and scenario analysis.
 
 ### Pre-PhD Publication
 
 #### Do central banks respond to house price movements? A Bayesian DSGE approach
 
-**Published in:** *Australian Economic Papers*, 63(S1), 99-114. [https://doi.org/10.1111/1467-8454.12350](https://doi.org/10.1111/1467-8454.12350)
+**Author:** Longcan Li  
+**Published in:** *Australian Economic Papers*, 63(S1), 99-114  
+**Link:** [https://doi.org/10.1111/1467-8454.12350](https://doi.org/10.1111/1467-8454.12350)  
+**Note:** Invited by the Reserve Bank of Australia for publication in a special issue
 
-**Note:** This dissertation summary was invited by the Reserve Bank of Australia for publication in a special issue.
-
-**Abstract:** This thesis explores whether monetary policy reacts to house price movements, by employing a New Keynesian model with a housing factor and estimated using Bayesian estimation techniques. The primary emphasis of this study is on the United States, with supplementary analyses on central banks in several advanced economies. The principal finding of this thesis reveals that the Federal Reserve responded substantially but episodically to house prices. Furthermore, my investigation indicates that the Reserve Bank of Australia, the Reserve Bank of New Zealand, Bank of England, and the European Central Bank did not incorporate house prices into their policy framework, whereas the Bank of Canada did so episodically. The baseline results remain robust across a range of sensitivity checks.
+This paper studies whether central banks respond directly to house price movements using a New Keynesian DSGE model with housing and Bayesian estimation. The results suggest that the Federal Reserve responded substantially but episodically to house prices, while the Reserve Bank of Australia, Reserve Bank of New Zealand, Bank of England, and European Central Bank did not incorporate house prices directly into their policy frameworks. The Bank of Canada shows episodic evidence of such responses.
 
 ### Non-econometric Research
 
 #### Exposure to Manosphere Rhetoric Shapes Support for Gender Equality Policies
 
-**Authors:** Ravisha Wellappuli, Longcan Li, Victoria Baranov, Ieda Matavelli, Michael Flood, Taveeshi Gupta, and Melanie Thomson
+**Authors:** Ravisha Wellappuli, Longcan Li, Victoria Baranov, Ieda Matavelli, Michael Flood, Taveeshi Gupta, and Melanie Thomson  
+**Status:** Working paper  
+**Design:** Survey experiment with 2,192 Australian men  
+**Registration:** Pre-registered at AsPredicted (#296349)  
+**Funding:** Faculty of Business and Economics at the University of Melbourne and Equimundo: Center for Masculinities and Social Justice
 
-**Working paper.** This project was funded by the Faculty of Business and Economics at the University of Melbourne and Equimundo: Center for Masculinities and Social Justice. The project was approved by the IRB at the University of Melbourne and pre-registered at AsPredicted (#296349).
-
-**Abstract:** Does exposure to online "manosphere" rhetoric, which promotes misogyny and antifeminism, causally shift support for gender equality policies? In a survey experiment with 2,192 Australian men, we randomise whether respondents see manosphere narratives before or after the outcome measures. Exposure reduces stated support for gender equality policies and willingness to sign a public petition, but leaves an incentivised donation unchanged. An independent treatment correcting beliefs about other men's support for these policies raises donations among men who underestimate that support. However, exposure to manosphere narratives does not shift these beliefs, and the two treatments do not interact, so we find no evidence that the effects of manosphere exposure operate through beliefs about other men.
+This project studies whether exposure to online "manosphere" rhetoric causally shifts support for gender equality policies. Exposure reduces stated policy support and willingness to sign a public petition, but does not change incentivised donations. A separate belief-correction treatment increases donations among men who underestimate other men's support for gender equality policies, but the two treatments do not interact, providing no evidence that the effects of manosphere exposure operate through beliefs about other men.
 
 ---
 
-## 🌟 Connect With Me 🌟
+##  Connect With Me 
 
 <div align="center">
 
@@ -98,11 +99,14 @@ I am working on nonlinear factor models for matrix-valued macroeconomic time ser
 <a href="https://github.com/Longcando">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+<a href="https://www.linkedin.com/in/leander-lee/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
 <div align="center">
 
-❤️ Thank you for visiting my profile! Wishing you a fantastic day ahead! 😊 ❤️
+ Thank you for visiting my profile! Wishing you a fantastic day ahead! 😊 
 
 </div>

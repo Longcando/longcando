@@ -73,6 +73,8 @@ This project develops a nonlinear factor modelling framework for reduced-rank ma
 In this paper, I develop a long short-term memory (LSTM) deep learning method for estimating time-varying parameter matrix autoregression models. While econometric models explain relationships through theory and assumptions, LSTMs learn these relationships from data, offering greater adaptability and often stronger predictive accuracy in complex time-series environments. I use the algorithm of Ansley and Kohn (1986) to map the network output to causal coefficient matrices.
 In an application to European energy price data, the integrated DeepTVPMAR model performs competitively with, or better than, benchmarks including fixed-parameter VAR, kernel TV-VAR (QBLL), and existing deep learning baselines such as DeepAR and DeepState. Performance is evaluated using both point forecast accuracy, including MSE and MAPE, and interval forecast metrics.
 
+---
+
 ### Non-econometric Research
 
 #### Exposure to Manosphere Rhetoric Shapes Support for Gender Equality Policies
@@ -82,6 +84,7 @@ In an application to European energy price data, the integrated DeepTVPMAR model
 **Funding:** Faculty of Business and Economics at the University of Melbourne and Equimundo: Center for Masculinities and Social Justice
 
 This project studies whether exposure to online "manosphere" rhetoric causally shifts support for gender equality policies. Exposure reduces stated policy support and willingness to sign a public petition, but does not change incentivised donations. A separate belief-correction treatment increases donations among men who underestimate other men's support for gender equality policies, but the two treatments do not interact, providing no evidence that the effects of manosphere exposure operate through beliefs about other men.
+---
 
 ### Pre-PhD Publication
 

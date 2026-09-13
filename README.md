@@ -43,7 +43,6 @@ My research focuses on Bayesian econometrics, macroeconometrics, and deep learni
 
 <p>
   <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
@@ -78,8 +77,6 @@ This paper studies whether central banks respond directly to house price movemen
 
 **Authors:** Ravisha Wellappuli, Longcan Li, Victoria Baranov, Ieda Matavelli, Michael Flood, Taveeshi Gupta, and Melanie Thomson  
 **Status:** Working paper  
-**Design:** Survey experiment with 2,192 Australian men  
-**Registration:** Pre-registered at AsPredicted (#296349)  
 **Funding:** Faculty of Business and Economics at the University of Melbourne and Equimundo: Center for Masculinities and Social Justice
 
 This project studies whether exposure to online "manosphere" rhetoric causally shifts support for gender equality policies. Exposure reduces stated policy support and willingness to sign a public petition, but does not change incentivised donations. A separate belief-correction treatment increases donations among men who underestimate other men's support for gender equality policies, but the two treatments do not interact, providing no evidence that the effects of manosphere exposure operate through beliefs about other men.

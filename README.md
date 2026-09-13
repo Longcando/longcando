@@ -130,6 +130,16 @@ I am an author of `StealLikeBayes`, an open-source package that provides reusabl
 
 ---
 
+## Teaching Assistant
+
+- Econometrics 2
+- Econometrics 1
+- Quantitative Methods 1
+- Introductory Macroeconomics
+- Introductory Microeconomics
+
+---
+
 ## Connect With Me 
 
 <div align="center">

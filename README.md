@@ -62,16 +62,7 @@ I enjoy building econometric and machine learning models for complex research qu
 **Fields:** Bayesian econometrics, macroeconometrics, matrix-valued time series, forecasting  
 **Summary:** I am developing nonlinear factor models for matrix-valued macroeconomic time series, with applications to multinational forecasting and scenario analysis.
 
-### Pre-PhD Publication
 
-#### Do central banks respond to house price movements? A Bayesian DSGE approach
-
-**Author:** Longcan Li  
-**Published in:** *Australian Economic Papers*, 63(S1), 99-114  
-**Link:** [https://doi.org/10.1111/1467-8454.12350](https://doi.org/10.1111/1467-8454.12350)  
-**Note:** Invited by the Reserve Bank of Australia for publication in a special issue
-
-This paper studies whether central banks respond directly to house price movements using a New Keynesian DSGE model with housing and Bayesian estimation. The results suggest that the Federal Reserve responded substantially but episodically to house prices, while the Reserve Bank of Australia, Reserve Bank of New Zealand, Bank of England, and European Central Bank did not incorporate house prices directly into their policy frameworks. The Bank of Canada shows episodic evidence of such responses.
 
 ### Non-econometric Research
 
@@ -82,6 +73,17 @@ This paper studies whether central banks respond directly to house price movemen
 **Funding:** Faculty of Business and Economics at the University of Melbourne and Equimundo: Center for Masculinities and Social Justice
 
 This project studies whether exposure to online "manosphere" rhetoric causally shifts support for gender equality policies. Exposure reduces stated policy support and willingness to sign a public petition, but does not change incentivised donations. A separate belief-correction treatment increases donations among men who underestimate other men's support for gender equality policies, but the two treatments do not interact, providing no evidence that the effects of manosphere exposure operate through beliefs about other men.
+
+### Pre-PhD Publication
+
+#### Do central banks respond to house price movements? A Bayesian DSGE approach
+
+**Author:** Longcan Li  
+**Published in:** *Australian Economic Papers*, 63(S1), 99-114  
+**Link:** [https://doi.org/10.1111/1467-8454.12350](https://doi.org/10.1111/1467-8454.12350)  
+**Note:** Invited by the Reserve Bank of Australia for publication in a special issue
+
+This paper studies whether central banks respond directly to house price movements using a New Keynesian DSGE model with housing and Bayesian estimation. The results suggest that the Federal Reserve responded substantially but episodically to house prices, while the Reserve Bank of Australia, Reserve Bank of New Zealand, Bank of England, and European Central Bank did not incorporate house prices directly into their policy frameworks. The Bank of Canada shows episodic evidence of such responses.
 
 ---
 

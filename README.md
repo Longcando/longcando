@@ -84,6 +84,7 @@ In an application to European energy price data, the integrated DeepTVPMAR model
 **Funding:** Faculty of Business and Economics at the University of Melbourne and Equimundo: Center for Masculinities and Social Justice
 
 This project studies whether exposure to online "manosphere" rhetoric causally shifts support for gender equality policies. Exposure reduces stated policy support and willingness to sign a public petition, but does not change incentivised donations. A separate belief-correction treatment increases donations among men who underestimate other men's support for gender equality policies, but the two treatments do not interact, providing no evidence that the effects of manosphere exposure operate through beliefs about other men.
+
 ---
 
 ### Pre-PhD Publication

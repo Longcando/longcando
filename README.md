@@ -30,7 +30,8 @@ I enjoy building econometric and machine learning models for complex research qu
 - **Doctor of Philosophy in Economics**, 2024.02-present, The University of Melbourne  
   Supervised by Dr. [Tomasz Woźniak](https://github.com/donotdespair) and Prof. [Dan Zhu](https://sites.google.com/monash.edu/danzhu/home)
 
-- **Master of Commerce - Economics, PhD Qualifying Program**, 2024.02-2026.01, The University of Melbourne
+- **Master of Commerce - Economics**, 2024.02-2026.01, The University of Melbourne
+  The integrated qualifying Master’s degree within the Economics PhD program.
 
 - **Honours Degree in Economics**, 2023, The University of Adelaide  
   Supervised by Associate Professor [Qazi Haque](https://sites.google.com/site/qazigmziaulhaque/)
